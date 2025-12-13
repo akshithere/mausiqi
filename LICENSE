@@ -1,0 +1,46 @@
+Startup Source-Available License (SSAL) v1.0
+
+Copyright (c) 2025 mausiqi
+
+Permission is hereby granted to any individual or organization to view,
+copy, and modify this software solely for the purposes of:
+
+- Evaluating the software
+- Learning and educational use
+- Contributing improvements via Pull Requests to the original repository
+
+The following restrictions apply:
+
+1. Commercial Use Prohibited  
+You may NOT use this software, or any derivative of it, for commercial
+purposes, including but not limited to:
+- Offering it as a product or service
+- Using it in a revenue-generating application
+- Hosting it for others to use
+- Integrating it into a paid or production system
+
+2. Redistribution Prohibited  
+You may NOT redistribute, sublicense, sell, publish, or make this
+software available as a standalone product or service.
+
+3. Derivative Works  
+You may modify the software for personal or internal evaluation purposes,
+but you may NOT distribute or deploy modified versions.
+
+4. Contributions  
+By submitting a Pull Request, you agree that:
+- Your contribution is your original work
+- You grant mausiqi a perpetual, worldwide, royalty-free,
+  irrevocable license to use, modify, sublicense, and relicense your
+  contribution as part of this project
+
+5. No Warranty  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. Termination  
+Any violation of this license automatically terminates your rights under
+this license.
+
+For commercial licensing, contact maintainers
